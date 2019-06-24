@@ -17,4 +17,8 @@ body{
 }
 .fa-book-open{
 	color: #2c3e50;
+	margin-right: 8px;
+}
+.shelf_summary_quantity{
+	display: inline-flex;
 }
